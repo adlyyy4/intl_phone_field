@@ -6630,7 +6630,7 @@ const List<Country> countries = [
       "fa": "تایوان",
       "yue": "台灣"
     },
-    flag: "🇹🇼",
+    flag: "🇨🇳",
     code: "TW",
     dialCode: "886",
     minLength: 9,
